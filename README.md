@@ -8,7 +8,7 @@
 
 ## Deploy Link
 
-[Live Server](https://naeemmusamh23.github.io/Bus-Mull/)
+## [Live Server](https://naeemmusamh23.github.io/Bus-Mull/)
 
 ## The Reference
 
