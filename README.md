@@ -6,18 +6,16 @@
 
 ## This Project makes to talk about the object and who to make voting in some product and who to show it to the user and do the vote in the product.
 
-# Deploy Link
+## Deploy Link
 
-[Live Server](https://naeemmusamh.github.io/BusMall/)
+[Live Server](https://naeemmusamh23.github.io/Bus-Mull/)
 
-# The Reference
+## The Reference
 
-I write the code and learn from the class
+.eslintrc.json + .gitignore [Reference](https://github.com/LTUC/amman-201d14/tree/main/configs)
 
-.eslintrc.json + .gitignore [GitHub repo](https://github.com/LTUC/amman-201d14/tree/main/configs)
+the image from LTUC repo and the link here [Reference](https://github.com/LTUC/amman-201d14/tree/main/class-11/lab/assets)
 
-the image from LTUC repo and the link here [GitHub repo](https://github.com/LTUC/amman-201d14/tree/main/class-11/lab/assets)
-
-For chart used this source [FusionCharts](https://www.fusioncharts.com/dev/getting-started/plain-javascript/rendering-different-charts-using-plain-javascript)
+For chart used this source [Fusion Charts](https://www.fusioncharts.com/dev/getting-started/plain-javascript/rendering-different-charts-using-plain-javascript)
 
 HAVE FUN
